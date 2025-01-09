@@ -16,7 +16,7 @@ You can access the detailed documentation for the project [here](https://nissubb
 - Search words in multiple directions (horizontal, vertical, diagonal).
 - Track and display found words.
 - Interactive user input for coordinates to search within the grid.
-- Documentation generated using Doxygen for detailed code insights.
+- Documentation generated using Doxygen for detailed code description.
 - Test file included to test the coordinates within the game.
 
 ## Files
